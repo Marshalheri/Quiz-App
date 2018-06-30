@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="Question1">
+        <item name="android:text">1.) Select the states we have in Nigeria.  </item>
+</string>
+
+    <string name="Question2">
+        <item name="android:text">2.) What percentage of 30naira is #7.50k? </item>
+</string>
+
+    <string name="Question3">
+        <item name="android:text">3.) 20 is 10% of which number? </item>
+</string>
+
+    <string name="Question4">
+        <item name="android:text">4.) What is the value of 8^2? </item>
+</string>
+    <string name="Question5">
+        <item name="android:text">5.) What is the past tense of go? </item>
+</string>
+    <string name="Question6">
+        <item name="android:text">6.) What is the capital of Lagos state? </item>
+</string>
+    <string name="Question7">
+        <item name="android:text">7.) How many geopolitical zones are in Nigeria?</item>
+</string>
+    <string name="Question8">
+        <item name="android:text">8.) What year did Nigeria gain independence? </item>
+</string>
+    <string name="Question9">
+        <item name="android:text">9. Which arm of the government is responsible for law making?</item>
+</string>
+    <string name="Question10">
+        <item name="android:text">10.) When was the last general election of Nigeria held?</item>
+</string>
+</resources>
